@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.4",
+    "libraryName": "share-point-react-helloworld",
+    "libraryId": "4f259f63-ca0c-4ba8-bd0a-cc71936dfaf8",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "share-point-react-helloworld",
+    "solutionShortDescription": "share-point-react-helloworld description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

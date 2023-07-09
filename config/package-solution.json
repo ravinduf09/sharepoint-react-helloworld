@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "share-point-react-helloworld-client-side-solution",
+    "id": "4f259f63-ca0c-4ba8-bd0a-cc71936dfaf8",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "share-point-react-helloworld description"
+      },
+      "longDescription": {
+        "default": "share-point-react-helloworld description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "share-point-react-helloworld Feature",
+        "description": "The feature that activates elements of the share-point-react-helloworld solution.",
+        "id": "f31d522e-100f-47ba-aabe-cf549832181f",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/share-point-react-helloworld.sppkg"
+  }
+}
